@@ -2,7 +2,7 @@
 
 #2. Jeux permettant de pratiquer le Javascript.
 
-#3. Un exercice pratique utile à l'apprentissage du Javascript
+#3. Un exercice pratique et utile à l'apprentissage du Javascript
 
     => Manipulation du DOM
     => Fonctions
